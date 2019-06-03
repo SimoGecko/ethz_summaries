@@ -26,6 +26,8 @@ There are several types of summaries:
     Complete and long summaries of the whole lecture. Often written by somebody else, I just added annotation. It doesn't really make sense for you to look at them, they are mostly for my own reference. The original version will probably be more helpful to you. Credit to the respective authors.
 
 
+:star: is for summaries that might be more helpful.
+
 Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheule.com/en/), [Linus Metzler](http://studysheets.ch/sheets), and [Carlo Del Don](http://n.ethz.ch/student/deldonc/summaries/index.html).
 
 
@@ -35,12 +37,12 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 
  ### 1st Semester
 - __DMAT__	(Discrete Mathematics)
-	- [Exam handwritten](summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf) :star:
 - __EPROG__	(Introduction to Programming)
 	- [Summary computer](summaries/1_eprog/eprog_summary_annotated_heule.pdf)
 	- [Summary computer](summaries/1_eprog/eprog_summary_annotated_metzler.pdf)
 - __LIN__	(Linear Algebra)
-	- [Exam handwritten](summaries/1_lin/lin_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/1_lin/lin_summary_exam_handwritten_guggiari.pdf) :star:
 	- [Summary computer](summaries/1_lin/lin_summary_annotated.pdf)
 - __ANA1__	(Analysis 1)
 	- [Summary computer](summaries/1_ana/ana_summary_latex_annotated.pdf)
@@ -48,11 +50,11 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 ### 2nd Semester
 - __ANA2__	(Analysis 2)
 - __PARAL__	(Parallel Programming)
-	- [Exam handwritten](summaries/2_paral/paral_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/2_paral/paral_summary_exam_handwritten_guggiari.pdf) :star:
 	- [Summary handwritten](summaries/2_paral/paral_summary_handwritten_guggiari.pdf)
 - __PHY__	(Physics)
 - __DIG__	(Digital Circuits)
-	- [Exam handwritten](summaries/2_dig/dig_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/2_dig/dig_summary_exam_handwritten_guggiari.pdf) :star:
 - __DNA__	(Datastructures and Algorithms)
 
 ### 3rd Semester
@@ -63,9 +65,9 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 	- [Bullet points](summaries/3_spca/spca_bullet_points_annotated_guggiari.pdf)
 	- [Summary handwritten](summaries/3_spca/spca_summary_handwritten_guggiari.pdf)
 - __WUS__	(Probability and Statistics)
-	- [Exam handwritten](summaries/3_wus/wus_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/3_wus/wus_summary_exam_handwritten_guggiari.pdf) :star:
 - __NM__	(Numerical Methods)
-	- [Exam handwritten](summaries/3_nm/nm_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/3_nm/nm_summary_exam_handwritten_guggiari.pdf) :star:
 
 ### 4th Semester
 - __SAE__	(Software Architecture and Engineering)
@@ -87,7 +89,7 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 	- [Summary handwritten](summaries/5_apc/apc_summary_short_handwritten_guggiari.pdf)
 	- [Summary computer](summaries/5_apc/apc_summary_annotated_heule.pdf)
 - __VC__	(Visual Computing)
-	- [Exam    handwritten](summaries/5_vc/vc_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/5_vc/vc_summary_exam_handwritten_guggiari.pdf) :star:
 	- [Summary handwritten](summaries/5_vc/vc_summary_handwritten_guggiari.pdf)
 - __PBS__	(Physically Based Symulations)
 	- [Summary handwritten](summaries/5_pbs/pbs_summary_handwritten_guggiari.pdf)
@@ -99,7 +101,7 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 ### 6th Semester
 - __DRZ__	(Bachelor Thesis)
 - __LIS__	(Learning and Intelligent Systems)
-	- [Exam handwritten](summaries/6_lis/lis_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/6_lis/lis_summary_exam_handwritten_guggiari.pdf) :star:
 - __NE__	(Negotiation)
 	- [Summary handwritten](summaries/6_ne/ne_summary_handwritten_guggiari.pdf)
 - __IT__	(Information Theory)
