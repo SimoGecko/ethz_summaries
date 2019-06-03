@@ -9,15 +9,20 @@ They are mostly a reference for myself but feel free to use them however you lik
 There are several types of summaries:
 
 
-- Exam handwritten
+- *Exam handwritten*
+
     It's usually the most complete version. They are handwritten with small font, made to be brought at the exam when allowed.
-- Summary handwritten
+- *Summary handwritten*
+
     Similar to handwritten for exam, they are written bigger but might not treat all topics. Made for studying.
-- Bullet points
+- *Bullet points*
+
     Simple list of topics to be known, specific enough to cover all the content of the lecture. Handwritten annotations add schemas or treat some topics more in depth.
-- Formulas computer
+- *Formulas computer*
+
     Usually one or two pages of formulas written in latex only to be brought at exam. Most of them weren't made by me and credit goes to the respective author. In these cases I just added annotations.
-- Summary computer
+- *Summary computer*
+
     Complete and long summaries of the whole lecture. Often written by somebody else, I just added annotation. It doesn't really make sense for you to look at them, they are mostly for my own reference. The original version will probably be more helpful to you. Credit to the respective authors.
 
 
