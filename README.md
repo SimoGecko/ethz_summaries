@@ -1,5 +1,5 @@
 # ETHZ Computer Science Summaries
-A collection of handwritten or annotated summaries I made/used during my bachelor and master studies in Computer Science at ETHZ between 2014-2019.
+A collection of *handwritten* or *annotated* summaries I made/used during my bachelor and master studies in Computer Science at ETHZ between 2014-2019.
 
 
 ## Description
