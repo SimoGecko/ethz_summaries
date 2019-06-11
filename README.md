@@ -1,5 +1,5 @@
 # ETHZ Computer Science Summaries
-A collection of handwritten or annotated summaries I made/used during my bachelor and master studies in Computer Science at ETHZ between 2014-2019.
+A collection of *handwritten* or *annotated* summaries I made/used during my bachelor and master studies in Computer Science at ETHZ between 2014-2019.
 
 
 ## Description
@@ -9,17 +9,24 @@ They are mostly a reference for myself but feel free to use them however you lik
 There are several types of summaries:
 
 
-- Exam handwritten
+- *Exam handwritten*
+
     It's usually the most complete version. They are handwritten with small font, made to be brought at the exam when allowed.
-- Summary handwritten
+- *Summary handwritten*
+
     Similar to handwritten for exam, they are written bigger but might not treat all topics. Made for studying.
-- Bullet points
+- *Bullet points*
+
     Simple list of topics to be known, specific enough to cover all the content of the lecture. Handwritten annotations add schemas or treat some topics more in depth.
-- Formulas computer
+- *Formulas computer*
+
     Usually one or two pages of formulas written in latex only to be brought at exam. Most of them weren't made by me and credit goes to the respective author. In these cases I just added annotations.
-- Summary computer
+- *Summary computer*
+
     Complete and long summaries of the whole lecture. Often written by somebody else, I just added annotation. It doesn't really make sense for you to look at them, they are mostly for my own reference. The original version will probably be more helpful to you. Credit to the respective authors.
 
+
+★ is for summaries that might be more helpful.
 
 Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheule.com/en/), [Linus Metzler](http://studysheets.ch/sheets), and [Carlo Del Don](http://n.ethz.ch/student/deldonc/summaries/index.html).
 
@@ -30,12 +37,12 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 
  ### 1st Semester
 - __DMAT__	(Discrete Mathematics)
-	- [Exam handwritten](summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf) ★
 - __EPROG__	(Introduction to Programming)
 	- [Summary computer](summaries/1_eprog/eprog_summary_annotated_heule.pdf)
 	- [Summary computer](summaries/1_eprog/eprog_summary_annotated_metzler.pdf)
 - __LIN__	(Linear Algebra)
-	- [Exam handwritten](summaries/1_lin/lin_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/1_lin/lin_summary_exam_handwritten_guggiari.pdf) ★
 	- [Summary computer](summaries/1_lin/lin_summary_annotated.pdf)
 - __ANA1__	(Analysis 1)
 	- [Summary computer](summaries/1_ana/ana_summary_latex_annotated.pdf)
@@ -43,11 +50,11 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 ### 2nd Semester
 - __ANA2__	(Analysis 2)
 - __PARAL__	(Parallel Programming)
-	- [Exam handwritten](summaries/2_paral/paral_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/2_paral/paral_summary_exam_handwritten_guggiari.pdf) ★
 	- [Summary handwritten](summaries/2_paral/paral_summary_handwritten_guggiari.pdf)
 - __PHY__	(Physics)
 - __DIG__	(Digital Circuits)
-	- [Exam handwritten](summaries/2_dig/dig_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/2_dig/dig_summary_exam_handwritten_guggiari.pdf) ★
 - __DNA__	(Datastructures and Algorithms)
 
 ### 3rd Semester
@@ -60,9 +67,9 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 	- [Computer summary](summaries/3_spca/spca_summary_annotated_metzler.pdf)
 	- [Cheatsheet computer](summaries/3_spca/spca_x86_cheatsheet.pdf)
 - __WUS__	(Probability and Statistics)
-	- [Exam handwritten](summaries/3_wus/wus_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/3_wus/wus_summary_exam_handwritten_guggiari.pdf) ★
 - __NM__	(Numerical Methods)
-	- [Exam handwritten](summaries/3_nm/nm_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/3_nm/nm_summary_exam_handwritten_guggiari.pdf) ★
 
 ### 4th Semester
 - __SAE__	(Software Architecture and Engineering)
@@ -87,7 +94,7 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 	- [Summary handwritten](summaries/5_apc/apc_summary_short_handwritten_guggiari.pdf)
 	- [Summary computer](summaries/5_apc/apc_summary_annotated_heule.pdf)
 - __VC__	(Visual Computing)
-	- [Exam    handwritten](summaries/5_vc/vc_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/5_vc/vc_summary_exam_handwritten_guggiari.pdf) ★
 	- [Summary handwritten](summaries/5_vc/vc_summary_handwritten_guggiari.pdf)
 - __PBS__	(Physically Based Symulations)
 	- [Summary handwritten](summaries/5_pbs/pbs_summary_handwritten_guggiari.pdf)
@@ -99,7 +106,7 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 ### 6th Semester
 - __DRZ__	(Bachelor Thesis)
 - __LIS__	(Learning and Intelligent Systems)
-	- [Exam handwritten](summaries/6_lis/lis_summary_exam_handwritten_guggiari.pdf)
+	- [Exam handwritten](summaries/6_lis/lis_summary_exam_handwritten_guggiari.pdf) ★
 - __NE__	(Negotiation)
 	- [Summary handwritten](summaries/6_ne/ne_summary_handwritten_guggiari.pdf)
 - __IT__	(Information Theory)
