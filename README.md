@@ -57,6 +57,8 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 - __SPCA__	(Systems Programming and Computer Architecture)
 	- [Bullet points](summaries/3_spca/spca_bullet_points_annotated_guggiari.pdf)
 	- [Summary handwritten](summaries/3_spca/spca_summary_handwritten_guggiari.pdf)
+	- [Computer summary](summaries/3_spca/spca_summary_annotated_metzler.pdf)
+	- [Cheatsheet computer](summaries/3_spca/spca_x86_cheatsheet.pdf)
 - __WUS__	(Probability and Statistics)
 	- [Exam handwritten](summaries/3_wus/wus_summary_exam_handwritten_guggiari.pdf)
 - __NM__	(Numerical Methods)
@@ -74,6 +76,9 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 	- [Bullet points](summaries/4_dmdb/dmdb_bullet_points_annotated_guggiari.pdf)
 	- [Computer summary](summaries/4_dmdb/dmdb_summary_annotated_metzler.pdf)
 - __OSNET__	(Operating Systems and Networks)
+	- [Computer summary](summaries/4_osnet/net_summary_annotated_metzler.pdf)
+	- [Computer summary](summaries/4_osnet/os_summary_annotated_metzler.pdf)
+	- [Bullet points](summaries/4_osnet/osnet_bullet_points_annotated_guggiari.pdf)
 - __GT__	(Game Theory)
 	- [Summary handwritten](summaries/4_gt/gt_summary_and_formulas_handwritten_guggiari.pdf)
 
