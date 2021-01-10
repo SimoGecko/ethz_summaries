@@ -39,7 +39,7 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 
  ### 1st Semester
 - __DMAT__	(Discrete Mathematics)
-	- [Exam handwritten](summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf) [2](https://simone-guggiari.com/ethz_summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf) ★
+	- [Exam handwritten](summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf) [[2]](https://simone-guggiari.com/ethz_summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf) ★
 - __EPROG__	(Introduction to Programming)
 	- [Summary computer](summaries/1_eprog/eprog_summary_annotated_heule.pdf) [2](https://simone-guggiari.com/ethz_summaries/1_eprog/eprog_summary_annotated_heule.pdf) 
 	- [Summary computer](summaries/1_eprog/eprog_summary_annotated_metzler.pdf) [2](https://simone-guggiari.com/ethz_summaries/1_eprog/eprog_summary_annotated_metzler.pdf) 
