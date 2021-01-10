@@ -1,6 +1,8 @@
 # ETHZ Computer Science Summaries
 A collection of *handwritten* or *annotated* summaries I made/used during my bachelor and master studies in Computer Science at ETHZ between 2014-2019.
 
+## Note
+If opening a file gives the error `Sorry, this file is invalid so it cannot be displayed` it's because I run out of git LFS bandwith quota. You can find the summaries also on my website at http://simone-guggiari.com/ethz_summaries/ where you can also download them all at once.
 
 ## Description
 The summaries are organized by semester and lecture.
