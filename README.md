@@ -39,92 +39,92 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 
  ### 1st Semester
 - __DMAT__	(Discrete Mathematics)
-	- [Exam handwritten]() ★
+	- [Exam handwritten](https://simone-guggiari.com/ethz_summaries/1_dmat/dmat_summary_exam_handwritten_guggiari.pdf) ★
 - __EPROG__	(Introduction to Programming)
-	- [Summary computer]() 
-	- [Summary computer]() 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/1_eprog/eprog_summary_annotated_heule.pdf) 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/1_eprog/eprog_summary_annotated_metzler.pdf) 
 - __LIN__	(Linear Algebra)
-	- [Exam handwritten]() ★
-	- [Summary computer]() 
+	- [Exam handwritten](https://simone-guggiari.com/ethz_summaries/1_lin/lin_summary_exam_handwritten_guggiari.pdf) ★
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/1_lin/lin_summary_annotated.pdf) 
 - __ANA1__	(Analysis 1)
-	- [Summary computer]() 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/1_ana/ana_summary_latex_annotated.pdf) 
 
 ### 2nd Semester
 - __ANA2__	(Analysis 2)
 - __PARAL__	(Parallel Programming)
-	- [Exam handwritten]() ★
-	- [Summary handwritten]() 
+	- [Exam handwritten](https://simone-guggiari.com/ethz_summaries/2_paral/paral_summary_exam_handwritten_guggiari.pdf) ★
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/2_paral/paral_summary_handwritten_guggiari.pdf) 
 - __PHY__	(Physics)
 - __DIG__	(Digital Circuits)
-	- [Exam handwritten]() ★
+	- [Exam handwritten](https://simone-guggiari.com/ethz_summaries/2_dig/dig_summary_exam_handwritten_guggiari.pdf) ★
 - __DNA__	(Datastructures and Algorithms)
 
 ### 3rd Semester
 - __TI__	(Theoretical Informatics)
-	- [Summary handwritten]() 
-	- [Summary computer]() 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/3_ti/ti_summary_handwritten_guggiari.pdf) 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/3_ti/ti_summary_latex_annotated_wernli.pdf) 
 - __SPCA__	(Systems Programming and Computer Architecture)
-	- [Bullet points]() 
-	- [Summary handwritten]() 
-	- [Computer summary]() 
-	- [Cheatsheet computer]() 
+	- [Bullet points](https://simone-guggiari.com/ethz_summaries/3_spca/spca_bullet_points_annotated_guggiari.pdf) 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/3_spca/spca_summary_handwritten_guggiari.pdf) 
+	- [Computer summary](https://simone-guggiari.com/ethz_summaries/3_spca/spca_summary_annotated_metzler.pdf) 
+	- [Cheatsheet computer](https://simone-guggiari.com/ethz_summaries/3_spca/spca_x86_cheatsheet.pdf) 
 - __WUS__	(Probability and Statistics)
-	- [Exam handwritten]() ★
+	- [Exam handwritten](https://simone-guggiari.com/ethz_summaries/3_wus/wus_summary_exam_handwritten_guggiari.pdf) ★
 - __NM__	(Numerical Methods)
-	- [Exam handwritten]() ★
+	- [Exam handwritten](https://simone-guggiari.com/ethz_summaries/3_nm/nm_summary_exam_handwritten_guggiari.pdf) ★
 
 ### 4th Semester
 - __SAE__	(Software Architecture and Engineering)
-	- [Bullet points]() 
-	- [Summary computer]() 
+	- [Bullet points](https://simone-guggiari.com/ethz_summaries/4_sae/sae_bullet_points_annotated_guggiari.pdf) 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/4_sae/sae_summary_annotated_metzler.pdf) 
 - __FMFP__	(Formal Methods and Functional Programming)
-	- [Summary handwritten]() 
-	- [Summary computer]() 
-	- [Cheatsheet computer]() 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/4_fmfp/fmfp_summary_handwritten_guggiari.pdf) 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/4_fmfp/fmfp_haskell_cheatsheet.pdf) 
+	- [Cheatsheet computer](https://simone-guggiari.com/ethz_summaries/4_fmfp/fmfp_haskell_reference.pdf) 
 - __DMDB__	(Data Modeling and Databases)
-	- [Bullet points]() 
-	- [Computer summary]() 
+	- [Bullet points](https://simone-guggiari.com/ethz_summaries/4_dmdb/dmdb_bullet_points_annotated_guggiari.pdf) 
+	- [Computer summary](https://simone-guggiari.com/ethz_summaries/4_dmdb/dmdb_summary_annotated_metzler.pdf) 
 - __OSNET__	(Operating Systems and Networks)
-	- [Computer summary]() 
-	- [Computer summary]() 
-	- [Bullet points]() 
+	- [Computer summary](https://simone-guggiari.com/ethz_summaries/4_osnet/net_summary_annotated_metzler.pdf) 
+	- [Computer summary](https://simone-guggiari.com/ethz_summaries/4_osnet/os_summary_annotated_metzler.pdf) 
+	- [Bullet points](https://simone-guggiari.com/ethz_summaries/4_osnet/osnet_bullet_points_annotated_guggiari.pdf) 
 - __GT__	(Game Theory)
-	- [Summary handwritten]() 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/4_gt/gt_summary_and_formulas_handwritten_guggiari.pdf) 
 
 ### 5th Semester
 - __APC__	(Algorithms, Probability, and Computing)
-	- [Summary handwritten]() 
-	- [Summary computer]() 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/5_apc/apc_summary_short_handwritten_guggiari.pdf) 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/5_apc/apc_summary_annotated_heule.pdf) 
 - __VC__	(Visual Computing)
-	- [Exam handwritten]() ★
-	- [Summary handwritten]() 
+	- [Exam handwritten](https://simone-guggiari.com/ethz_summaries/5_vc/vc_summary_exam_handwritten_guggiari.pdf) ★
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/5_vc/vc_summary_handwritten_guggiari.pdf) 
 - __PBS__	(Physically Based Symulations)
-	- [Summary handwritten]() 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/5_pbs/pbs_summary_handwritten_guggiari.pdf) 
 - __HCI__	(Human-Computer Interaction)
-	- [Summary handwritten]() 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/5_hci/hci_summary_handwritten_guggiari.pdf) 
 - __INI__	(Introduction to Neuro-Informatics)
-	- [Summary computer]() 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/5_ini/ini_summary_annotated.pdf) 
 
 ### 6th Semester
 - __DRZ__	(Bachelor Thesis)
 - __LIS__	(Learning and Intelligent Systems)
-	- [Exam handwritten]() ★
+	- [Exam handwritten](https://simone-guggiari.com/ethz_summaries/6_lis/lis_summary_exam_handwritten_guggiari.pdf) ★
 - __NE__	(Negotiation)
-	- [Summary handwritten]() 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/6_ne/ne_summary_handwritten_guggiari.pdf) 
 - __IT__	(Information Theory)
 - __QIC__	(Quantum Information and Cryptography)
 
 ### 7th Semester
 - __CG__	(Computer Graphics)
-	- [Formulas handwritten]() 
-	- [Summary computer]() 
+	- [Formulas handwritten](https://simone-guggiari.com/ethz_summaries/7_cg/cg_summary_formulas_guggiari.pdf) 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/7_cg/cg_summary_annotated_deldon.pdf) 
 - __CV__	(Computer Vision)
 - __AL__	(Algorithms Lab)
 - __COOP__	(Concepts of Object-Oriented Programming)
-	- [Summary computer]() 
+	- [Summary computer](https://simone-guggiari.com/ethz_summaries/7_coop/coop_summary_annotated_heule.pdf) 
 - __PAI__	(Probabilistic Artificial Intelligence)
-	- [Summary handwritten]() 
-	- [Formulas computer]() 
+	- [Summary handwritten](https://simone-guggiari.com/ethz_summaries/7_pai/pai_summary_handwritten_guggiari.pdf) 
+	- [Formulas computer](https://simone-guggiari.com/ethz_summaries/7_pai/pai_summary_exam_formulas_annotated.pdf) 
 - __SAT__	(Seminar Advanced Topics in CG/CV)
 
 ### 8th Semester
@@ -132,7 +132,7 @@ Definitely check out the summaries by [Stefan Heule](http://summaries.stefanheul
 - __ER__	(Entrepreneurial Risks)
 - __SMGP__	(Shape Modeling and Geometry Processing)
 - __CIL__	(Computational Intelligence Lab)
-	- [Formulas computer]() 
+	- [Formulas computer](https://simone-guggiari.com/ethz_summaries/8_cil/cil_formulas_exam_annotated.pdf) 
 - __IQI__	(Invitation to Quantum Informatics)
 
 ### 9th Semester
